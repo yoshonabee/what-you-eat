@@ -1,0 +1,19 @@
+{
+  "name": "what-you-eat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chieh-Han Tu",
+  "license": "ISC",
+  "description": "A app to record what you've been eating",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshonabee/what-you-eat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yoshonabee/what-you-eat/issues"
+  },
+  "homepage": "https://github.com/yoshonabee/what-you-eat#readme"
+}
